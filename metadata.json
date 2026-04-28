@@ -1,0 +1,6 @@
+{
+  "name": "Aroi Near Me - Smart Restaurant Finder",
+  "description": "Find the best nearby restaurants using advanced spatial indexing, Bayesian scoring, and weighted discovery algorithms.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
